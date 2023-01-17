@@ -1,0 +1,545 @@
+{
+  "seller": [
+    {
+      "name": "Vishnu",
+      "email": "Visu@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Vardhan",
+      "email": "Vardhan@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "visu",
+      "password": "12345",
+      "email": "Visu@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "divi",
+      "password": "567",
+      "email": "Divi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "vishnu",
+      "password": "122",
+      "email": "Vishnu@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "rahul",
+      "password": "rest",
+      "email": "rahul@g.com",
+      "id": 7
+    },
+    {
+      "name": "rahul",
+      "password": "rest",
+      "email": "rahul@g.com",
+      "id": 8
+    },
+    {
+      "name": "rahul",
+      "password": "rest",
+      "email": "rahul@g.com",
+      "id": 9
+    },
+    {
+      "name": "rahul",
+      "password": "rest",
+      "email": "rahul@g.com",
+      "id": 10
+    },
+    {
+      "name": "hari",
+      "password": "456",
+      "email": "hari@test.com",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "divya",
+      "email": "divya@gmail.com",
+      "password": "1120",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 32
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 33
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 34
+    },
+    {
+      "name": "KitchenStory",
+      "password": "8978",
+      "email": "kitchenstory@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Rohith",
+      "password": "456123",
+      "email": "Rohith@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 37
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 38
+    },
+    {
+      "name": "Vishnu",
+      "password": "456",
+      "email": "vishnu11@gmail.com",
+      "id": 39
+    }
+  ],
+  "products": [
+    {
+      "name": "OVEN",
+      "price": "20000",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "To Heat the Food",
+      "image": "https://www.philips.co.in/c-dam/corporate/newscenter/in/2019/stay-healthy-hero-image.jpg",
+      "id": 1
+    },
+    {
+      "name": "Rice Cooker",
+      "price": "5000",
+      "category": "Ganga",
+      "color": "silver",
+      "description": "cooker",
+      "image": "https://www.pngfind.com/pngs/m/332-3320915_4l-rice-cooker-kettle-rice-cooker-hd-png.png",
+      "id": 2
+    },
+    {
+      "name": "Pigeon Favourite Electric Kettle  ",
+      "price": "1500",
+      "category": "Electric Home Appliances",
+      "color": "Black&Silver",
+      "description": "You can easily make tea, coffee, instant noodles, and more with the help of the Pigeon Favourite Electric Kettle.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/electric-kettle/w/g/r/-original-imaggkhdr4thnypr.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "USHA SN500 MX3_ Spin Pro 500 W Mixer Grinder ",
+      "price": "1800",
+      "category": "Electric Home Appliances",
+      "color": "Blue&White",
+      "description": "\nYou can conveniently and quickly prepare your favourite dishes with the help of the Pigeon Acer Plus Induction Cooktop.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kyj0vbk0/induction-cook-top/v/3/j/-original-imagaqsmqrnfhrbf.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "Le Maroco Egg Steamer and Poacher Egg Boiler",
+      "price": "350",
+      "category": "Electric Home Appliances",
+      "color": "LIGHT PINK",
+      "description": "Egg Boiler Steamer Heavy Cooker/ 7 Egg Boiler Machine Egg Boiler_7 Egg Cooker",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/electric-cooker/k/k/n/le-maroco-egg-steamer-and-poacher-egg-boiler-egg-7-egg-cooker-original-imafvenw5wshuemr.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "Glass Manual Gas Stove  (4 Burners)",
+      "price": "4500",
+      "category": "Cook",
+      "color": "red",
+      "description": "\nYou can prepare different types of meals for your loved ones with the help of the Lifelong Glass Top LLGS30 Gas Stove",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/gas-stove/s/a/r/-original-imagg25zfj2gu8ug.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "Non Stick Dosa Tawa",
+      "price": "700",
+      "category": "Cook",
+      "color": "black",
+      "description": "\nNow enjoy home-made uttapams, dosas, chilas, omelettes, french toasts, chapattis, phulkas, omeletsor your favorite Pancakes with this iVBOX Non Stick Dosa tawa",
+      "image": "https://rukminim1.flixcart.com/image/416/416/jxapua80/pot-pan/z/s/h/dosatawa-055-ivbox-original-imafh8g3wh4yav2v.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "Pigeon Special 3 L Pressure Cooker  (Aluminium)",
+      "price": "5000",
+      "category": "Cook",
+      "color": "Red",
+      "description": "Equipped with an ergonomically designed handle, this Pigeon pressure cooker is made from high-grade virgin aluminium that gives it a durable body",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l13whow0/pressure-cooker/2/6/g/-original-imagcqxhvwwr7gzb.jpeg?q=70",
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "id": 1
+    },
+    {
+      "name": "vishnu",
+      "email": "user@gmail.com",
+      "password": "user123",
+      "id": 2
+    },
+    {
+      "name": "vishnu",
+      "email": "user@gmail.com",
+      "password": "user123",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "divya",
+      "email": "divya@gmail.com",
+      "password": "1120",
+      "id": 5
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "Ramu",
+      "email": "ramu@gmail.com",
+      "password": "147852",
+      "id": 7
+    },
+    {
+      "name": "vardhan",
+      "email": "vardhan@gmail.com",
+      "password": "1120",
+      "id": 8
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@gmail.com",
+      "password": "78945",
+      "id": 9
+    },
+    {
+      "name": "king",
+      "email": "king@gmail.com",
+      "password": "456123",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "name": "Divya",
+      "email": "divya@gmail.com",
+      "password": "1120",
+      "id": 12
+    },
+    {
+      "name": "venu",
+      "email": "venu@gmail.com",
+      "password": "147369",
+      "id": 13
+    },
+    {
+      "name": "Vishnu vardhan",
+      "email": "vv@gmail.com",
+      "password": "789",
+      "id": 14
+    },
+    {
+      "name": "Vishnu vardhan",
+      "email": "Vishnu@gmail.com",
+      "password": "1120",
+      "id": 15
+    }
+  ],
+  "cart": [
+    {
+      "name": "OVEN",
+      "price": "20000",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "To Heat the Food",
+      "image": "https://www.philips.co.in/c-dam/corporate/newscenter/in/2019/stay-healthy-hero-image.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 13,
+      "id": 3
+    },
+    {
+      "name": "OVEN",
+      "price": "20000",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "To Heat the Food",
+      "image": "https://www.philips.co.in/c-dam/corporate/newscenter/in/2019/stay-healthy-hero-image.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 13,
+      "id": 4
+    },
+    {
+      "name": "OVEN",
+      "price": "20000",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "To Heat the Food",
+      "image": "https://www.philips.co.in/c-dam/corporate/newscenter/in/2019/stay-healthy-hero-image.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 13,
+      "id": 5
+    },
+    {
+      "name": "OVEN",
+      "price": "20000",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "To Heat the Food",
+      "image": "https://www.philips.co.in/c-dam/corporate/newscenter/in/2019/stay-healthy-hero-image.jpg",
+      "quantity": 2,
+      "productId": 1,
+      "userId": 13,
+      "id": 6
+    },
+    {
+      "name": "OVEN",
+      "price": "20000",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "To Heat the Food",
+      "image": "https://www.philips.co.in/c-dam/corporate/newscenter/in/2019/stay-healthy-hero-image.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 5,
+      "id": 7
+    },
+    {
+      "name": "Rice Cooker",
+      "price": "5000",
+      "category": "Ganga",
+      "color": "silver",
+      "description": "cooker",
+      "image": "https://www.pngfind.com/pngs/m/332-3320915_4l-rice-cooker-kettle-rice-cooker-hd-png.png",
+      "quantity": 3,
+      "productId": 2,
+      "userId": 5,
+      "id": 10
+    },
+    {
+      "name": "Pigeon Favourite Electric Kettle  ",
+      "price": "1500",
+      "category": "Electric Home Appliances",
+      "color": "Black&Silver",
+      "description": "You can easily make tea, coffee, instant noodles, and more with the help of the Pigeon Favourite Electric Kettle.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/electric-kettle/w/g/r/-original-imaggkhdr4thnypr.jpeg?q=70",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 5,
+      "id": 17
+    },
+    {
+      "name": "Le Maroco Egg Steamer and Poacher Egg Boiler",
+      "price": "350",
+      "category": "Electric Home Appliances",
+      "color": "LIGHT PINK",
+      "description": "Egg Boiler Steamer Heavy Cooker/ 7 Egg Boiler Machine Egg Boiler_7 Egg Cooker",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/electric-cooker/k/k/n/le-maroco-egg-steamer-and-poacher-egg-boiler-egg-7-egg-cooker-original-imafvenw5wshuemr.jpeg?q=70",
+      "quantity": 7,
+      "productId": 6,
+      "userId": 2,
+      "id": 21
+    },
+    {
+      "name": "Rice Cooker",
+      "price": "5000",
+      "category": "Ganga",
+      "color": "silver",
+      "description": "cooker",
+      "image": "https://www.pngfind.com/pngs/m/332-3320915_4l-rice-cooker-kettle-rice-cooker-hd-png.png",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 2,
+      "id": 22
+    }
+  ],
+  "orders": [
+    {
+      "email": "vishhn@gmail.com",
+      "address": "kistapuram",
+      "contact": "8978263791",
+      "totalPrice": 7550,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "v@gamil.com",
+      "address": "kodad",
+      "contact": "8978525",
+      "totalPrice": 7550,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "email": "v@gmail.com",
+      "address": "Karimnagar",
+      "contact": "789456123",
+      "totalPrice": 7550,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "email": "vv@gmail.com",
+      "address": "jio",
+      "contact": "78989",
+      "totalPrice": 25100,
+      "userId": 14,
+      "id": 4
+    }
+  ]
+}

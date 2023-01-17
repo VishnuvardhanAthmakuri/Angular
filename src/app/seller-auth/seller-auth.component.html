@@ -1,0 +1,27 @@
+<div class="seller-auth">
+  <div *ngIf="!showLogin" class="sign up">
+    <h1 class="header">Seller SignUp</h1>
+    <form #sellerSignUp="ngForm" (ngSubmit)="signUp(sellerSignUp.value)" class="common-form">
+      <input type="text" class="form-input" placeholder="Enter Name" name="name" ngModel />
+      <input type="password" class="form-input" placeholder="Enter Password" name="password" ngModel />
+      <input type="text" class="form-input" placeholder="Enter Email" name="email" ngModel />
+      <button class="form-button">Sign Up</button>
+      <button class="auth-toggle-link" (click)="openLogin()">Existing User ? Log in</button>
+
+    </form>
+  </div>
+
+  <div *ngIf="showLogin" class="Login">
+    <h1 class="header">Seller Login</h1>
+    <p class="error-p">{{authError}}</p>
+    <form #sellerLogin="ngForm" (ngSubmit)="Login(sellerLogin.value)" class="common-form">
+
+      <input type="text" class="form-input" placeholder="Enter Email" name="email" ngModel />
+      <input type="password" class="form-input" placeholder="Enter Password" name="password" ngModel />
+      <button class="form-button">Login</button>
+      <button class="auth-toggle-link" (click)="opensignup()">New to KitchenStory?SingUp here</button>
+
+    </form>
+  </div>
+
+</div>
